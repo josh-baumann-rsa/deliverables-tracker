@@ -123,6 +123,26 @@ def main():
         this_project = Project(this_project_filepath)
         df_master = pd.concat([df_master, this_project.summary_df()])
 
+    # Add today line
+    today_str = "---------------"
+    df_master = pd.concat(
+        [
+            df_master,
+            pd.DataFrame.from_dict(
+                data=[
+                    {
+                        "name": today_str,
+                        "milestone": today_str,
+                        "description": today_str,
+                        "deliverable": today_str,
+                        "value": today_str,
+                        "due_date": str(datetime.date.today()),
+                    }
+                ]
+            ),
+        ]
+    )
+
     df_master = df_master.sort_values(by="due_date")
 
     df_master.to_html(f"{save_name}_ugly.html", index=False)
