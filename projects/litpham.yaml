@@ -1,0 +1,41 @@
+name: LITPHAM
+
+initiated: 2024-08-07
+
+milestones:
+
+  - milestone: Milestone 1
+    description: LITPHAM Project Management
+    due_date_months: 0
+    deliverable: Slide Deck
+    value: 4500
+
+  - milestone: Milestone 2
+    description: LITPHAM Software Development
+    due_date_months: 2
+    deliverable: Slide Deck, Software, Algorithm Documentation
+    value: 34500
+
+  - milestone: Milestone 3
+    description: LITPHAM Benchtop Hardware Prototype
+    due_date_months: 4
+    deliverable: CAD Design Hardware Prototype Slide Deck
+    value: 34125
+
+  - milestone: Milestone 4
+    description: Terrestrial Demonstration
+    due_date_months: 8
+    deliverable: DEM Maps/ Testbed Documentation/ Slide Deck
+    value: 40125
+
+  - milestone: Milestone 5
+    description: Lunar Landing Simulation
+    due_date_months: 12
+    deliverable: Simulation Results/ Slide Deck
+    value: 33750
+
+  - milestone: Milestone 6
+    description: Final Report
+    due_date_months: 13
+    deliverable: Reporting Material/ Slide Deck
+    value: 3000

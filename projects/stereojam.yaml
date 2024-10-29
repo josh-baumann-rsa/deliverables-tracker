@@ -1,0 +1,35 @@
+name: StereoJAM
+
+initiated: 2024-06-12
+
+milestones:
+
+  - milestone: Milestone 1
+    description: Contract Award; Continued Program Management
+    due_date_months: 0
+    deliverable: Slide deck / material and pitch presentation
+    value: 10000
+
+  - milestone: Milestone 2
+    description: Determination of Requirements
+    due_date_months: 2
+    deliverable: Reporting Material including Slide Deck
+    value: 50000
+
+  - milestone: Milestone 3
+    description: StereoJAM ConOps and Analysis of Passive Ranging in a GPS-Denied Environment
+    due_date_months: 3
+    deliverable: Reporting Material including Slide Deck
+    value: 75000
+
+  - milestone: Milestone 4
+    description: Design Phase II Prototype
+    due_date_months: 5
+    deliverable: Reporting Material including Slide Deck
+    value: 47000
+
+  - milestone: Milestone 5
+    description: Submission of Final Report
+    due_date_months: 6
+    deliverable: Final Report, SF 298
+    value: 15000

@@ -1,0 +1,114 @@
+name: SKY AUGER
+
+initiated: 2022-09-15
+
+milestones:
+
+  - milestone: Milestone 1
+    description: Detailed Work Plan
+    due_date_months: 0
+    deliverable: Reporting Material including Slide Deck
+    value: 75000
+
+  - milestone: Milestone 2
+    description: Reference Design Mission for USAF Reentry Vehicles
+    due_date_months: 1
+    deliverable: Reporting Material including Slide Deck
+    value: 400000
+
+  - milestone: Milestone 3
+    description: Signal to Noise Detection of LEOs and Plasma Sheath Analysis Report
+    due_date_months: 6
+    deliverable: Reporting Material including Slide Deck
+    value: 600000
+
+  - milestone: Milestone 4
+    description: Modification of JAM for USAF Reentry Vehicle Navigation of LEOs
+      Through the Plasma Sheath
+    due_date_months: 12
+    deliverable: Reporting Material including Slide Deck
+    value: 175000
+
+  - milestone: Milestone 5
+    description: Setup of SKY AUGER Optical Test Bed
+    due_date_months: 18
+    deliverable: Reporting Material including Slide Deck
+    value: 125000
+
+  - milestone: Milestone 6
+    description: Report on the Demonstration of SKY AUGER Guidance and Navigation on the Optical Test Bed
+    due_date_months: 24
+    deliverable: Reporting Material including Slide Deck
+    value: 100000
+
+  - milestone: Milestone 7
+    description: 'System Requirements Definition (SRD) '
+    due_date_months: 25
+    deliverable: Reporting Material including Requirements Trace Matrix
+    value: 400000
+
+  - milestone: Milestone 8
+    description: Radiation Hardened Optics Preliminary Design Review (PDR)
+    due_date_months: 26
+    deliverable: Reporting Material including Slide Deck
+    value: 300000
+
+  - milestone: Milestone 9
+    description: Radiation Hardened Curved Sensor Preliminary Design Review (PDR)
+    due_date_months: 27
+    deliverable: Trade Study or Explanation of Selection Criteria users and customers after inspection of the reporting materials.
+    value: 400000
+
+  - milestone: Milestone 10
+    description: Reporting and Submission of Final Report and Executive Summary
+    due_date_months: 27
+    deliverable: Reporting Material including Slide Deck
+    value: 24958
+
+  - milestone: Milestone 11
+    description: Radiation Hardened Optics Critical Design Review (CDR)
+    due_date_months: 31
+    deliverable: Reporting Material including Slide Deck
+    value: 100000
+
+  - milestone: Milestone 12
+    description: Radiation Hardened Curved Sensor Critical Design Review (CDR)
+    due_date_months: 33
+    deliverable: 'Reporting Material including Slide Deck '
+    value: 100000
+
+  - milestone: Milestone 13
+    description: Development of Satellite Catalog Pipeline and JAM Software Interface
+    due_date_months: 35
+    deliverable: Reporting Material including Software Documentation and User's Guide
+    value: 100000
+
+  - milestone: Milestone 14
+    description: Completion of SKY AUGER Prototype Critical Design Review (CDR)
+    due_date_months: 39
+    deliverable: Reporting Material including Software Documentation and User's Guide
+    value: 100000
+
+  - milestone: Milestone 15
+    description: Rad Hard Optics and Curved Sensor Qualification and Delivery
+    due_date_months: 41
+    deliverable: End Item Data Package (EIDP) after inspection of the reporting materials.
+    value: 100000
+
+  - milestone: Milestone 16
+    description: SKY AUGER Prototype Assembly Complete
+    due_date_months: 44
+    deliverable: Reporting Material including Test Report and Updates to Documentation after inspection of the reporting materials.
+    value: 100000
+
+  - milestone: Milestone 17
+    description: SKY AUGER Prototype Testing Complete
+    due_date_months: 46
+    deliverable: Reporting Material Including Slide Deck customers after inspection of the reporting materials.
+    value: 100000
+
+  - milestone: Milestone 18
+    description: Reporting and Submission of Final Report and Executive Summary
+    due_date_months: 47
+    deliverable: Reporting Material including Slide Deck
+    value: 100000

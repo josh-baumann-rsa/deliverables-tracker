@@ -1,0 +1,35 @@
+name: DR. LEGS
+
+initiated: 2024-12-09
+
+milestones:
+
+  - milestone: Milestone 1
+    description: DR. LEGS Project Management
+    due_date_months: 0
+    deliverable: Reporting material, including slide deck.
+    value: 18000
+
+  - milestone: Milestone 2
+    description: State-of-the-Art Literature Review
+    due_date_months: 1.5
+    deliverable: Reporting material, including slide deck.
+    value: 81000
+
+  - milestone: Milestone 3
+    description: Safe-by-Design Theorem and Requirement Development
+    due_date_months: 5
+    deliverable: Reporting material, including slide deck.
+    value: 54000
+
+  - milestone: Milestone 4
+    description: Basilisk Capability Development
+    due_date_months: 5.5
+    deliverable: Reporting material, source code delivery and tutorial.
+    value: 18000
+
+  - milestone: Milestone 5
+    description: Final Report Submission
+    due_date_months: 6
+    deliverable: Final Report, SF 298.
+    value: 9000

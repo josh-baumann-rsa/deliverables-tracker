@@ -1,0 +1,23 @@
+name: <NAME>
+
+initiated: YYYY-MM-DD
+
+milestones:
+
+  - milestone: Milestone 1
+    description: 
+    due_date_months: 
+    deliverable: 
+    value: 
+
+  - milestone: Milestone 2
+    description: 
+    due_date_months: 
+    deliverable: 
+    value: 
+
+  - milestone: Milestone 3
+    description: 
+    due_date_months: 
+    deliverable: 
+    value: 
