@@ -47,10 +47,11 @@ def make_plotly_table_from_summary(df: pd.DataFrame) -> go.Figure:
                     align="left",
                 ),
             )
-        ]
+        ],
     )
 
     fig.update_layout(
+        title_text=f"RSA Master Deliverables List ({datetime.date.today()})",
         updatemenus=[
             {
                 "buttons": [
